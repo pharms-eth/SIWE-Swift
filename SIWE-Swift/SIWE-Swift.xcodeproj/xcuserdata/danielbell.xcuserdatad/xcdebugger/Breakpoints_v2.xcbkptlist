@@ -1,0 +1,2465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD857DE4-7C06-405C-8369-DBB4AF910E36"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43B30CD9-5ABE-400E-A23E-6BF594EEC677"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/ABNFParsedMessage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "define()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD966F37-60B1-4129-B6F4-6EC4CF2B1536"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/Tokenizer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "tokenize(word:from:partialResult:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A05A762C-BD31-443F-ABBF-04951EDDD1E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "509"
+            endingLineNumber = "509"
+            landmarkName = "parse(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF92F17F-215A-4F8A-ADD4-D5B55C41E609"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "561"
+            endingLineNumber = "561"
+            landmarkName = "syntaxTree(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84618303-AC63-4B6E-A7F2-553BD85FA677"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "563"
+            endingLineNumber = "563"
+            landmarkName = "syntaxTree(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7585FA28-CCFC-47DD-8C60-EA636DF2AF5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "592"
+            endingLineNumber = "592"
+            landmarkName = "allSyntaxTrees(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9E63944-7B1E-4978-94BD-BFCEDD7AA602"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "594"
+            endingLineNumber = "594"
+            landmarkName = "allSyntaxTrees(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44497D58-764D-478A-B562-C9101BC34C8E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/CYKParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "syntaxTree(for:ignoreAmbiguousItems:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4C8FF5C-526B-416D-BFFA-834048DB71C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/CYKParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "generateError(_:string:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0A1B0A9-5CF9-4DE8-AC36-87F9A1B17147"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/CYKParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "generateError(_:string:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B6280B5-C50D-4F7B-A47C-17ECD2B804A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "491"
+            endingLineNumber = "491"
+            landmarkName = "parse(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D04F82E-5B57-4D05-BC8A-379063E9BBEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "454"
+            endingLineNumber = "454"
+            landmarkName = "parse(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84E1D557-3F07-4B08-99A5-92413BA3264F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "494"
+            endingLineNumber = "494"
+            landmarkName = "parse(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B9DB7F3-5F1F-499B-B58D-C10B803B8E97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "496"
+            endingLineNumber = "496"
+            landmarkName = "parse(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21BC8C8F-7CC6-46CC-9722-9D7A367F8DA9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "498"
+            endingLineNumber = "498"
+            landmarkName = "parse(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4998460F-E523-44A5-93BB-F40EE85374CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "551"
+            endingLineNumber = "551"
+            landmarkName = "syntaxTree(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2984F581-983B-4C26-ADDB-A7373ABE34A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "556"
+            endingLineNumber = "556"
+            landmarkName = "syntaxTree(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4DEF703-0995-44E4-B7D7-2ABE88195654"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "566"
+            endingLineNumber = "566"
+            landmarkName = "syntaxTree(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8A21552-E7D4-49D7-8E31-13A9D222A56F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "291"
+            endingLineNumber = "291"
+            landmarkName = "buildSyntaxTrees(stateCollection:tokenization:rootItem:startIndex:ignoreAmbiguousItems:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "340B7F2A-349D-41D8-99B0-A38E00EE895C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "400"
+            endingLineNumber = "400"
+            landmarkName = "buildSyntaxTrees(stateCollection:tokenization:rootItem:startIndex:ignoreAmbiguousItems:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8CA6C53-3510-4B8B-A6CA-17BAEC92E80C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "392"
+            endingLineNumber = "392"
+            landmarkName = "buildSyntaxTrees(stateCollection:tokenization:rootItem:startIndex:ignoreAmbiguousItems:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA3AC6ED-BA7B-485D-BA49-36C6EE28BC75"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "368"
+            endingLineNumber = "368"
+            landmarkName = "buildSyntaxTrees(stateCollection:tokenization:rootItem:startIndex:ignoreAmbiguousItems:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4733FEC4-1EB7-4956-B302-39046B10C5A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "311"
+            endingLineNumber = "311"
+            landmarkName = "resolve(unresolved:position:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "895FB3A7-CB1C-44B8-9181-6A4717C39093"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
+            landmarkName = "resolve(unresolved:position:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73B3395F-923E-49B9-9BF8-3818C5722AFC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "335"
+            endingLineNumber = "335"
+            landmarkName = "resolve(unresolved:position:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "625A5BF3-D582-4805-A9C8-B1B6B23F735D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "331"
+            endingLineNumber = "331"
+            landmarkName = "resolve(unresolved:position:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05CEB5C7-F240-4B8D-9B28-7A5557D04506"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "326"
+            endingLineNumber = "326"
+            landmarkName = "resolve(unresolved:position:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF3747D6-DDB3-4A3A-AD18-D4724DD9397F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "325"
+            endingLineNumber = "325"
+            landmarkName = "resolve(unresolved:position:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD4B9769-D077-4EC4-AECC-DD3F99C8F52D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EBNFImporter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8FCB499-1965-4570-BEC2-755BEBBE46B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EBNFImporter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC88566A-FCF7-4007-B448-44A190B2E660"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "448"
+            endingLineNumber = "448"
+            landmarkName = "parse(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CC88566A-FCF7-4007-B448-44A190B2E660 - a2295c5b120d7422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Covfefe.EarleyParser.parse(Swift.String) throws -&gt; (Swift.Array&lt;Swift.Set&lt;Covfefe.ParsedItem&gt;&gt;, Swift.Array&lt;Swift.Array&lt;(terminal: Covfefe.Terminal, range: Swift.Range&lt;Swift.String.Index&gt;)&gt;&gt;)"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "448"
+                  endingLineNumber = "448"
+                  offsetFromSymbolStart = "2168">
+               </Location>
+               <Location
+                  uuid = "CC88566A-FCF7-4007-B448-44A190B2E660 - 868cef938e506a7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 (Covfefe.Terminal, Swift.Array&lt;Covfefe.ParseStateItem&gt;) -&gt; Swift.Optional&lt;(Swift.Array&lt;Covfefe.ParseStateItem&gt;, (terminal: Covfefe.Terminal, range: Swift.Range&lt;Swift.String.Index&gt;))&gt; in Covfefe.EarleyParser.parse(Swift.String) throws -&gt; (Swift.Array&lt;Swift.Set&lt;Covfefe.ParsedItem&gt;&gt;, Swift.Array&lt;Swift.Array&lt;(terminal: Covfefe.Terminal, range: Swift.Range&lt;Swift.String.Index&gt;)&gt;&gt;)"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "448"
+                  endingLineNumber = "448"
+                  offsetFromSymbolStart = "892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67D19CE1-1248-4101-BDD5-B4F5B06128F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "456"
+            endingLineNumber = "456"
+            landmarkName = "parse(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6465F966-DE75-4A5D-A9DF-4F8B45038DB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "458"
+            endingLineNumber = "458"
+            landmarkName = "parse(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9269E112-D7BD-4A04-9708-B185D588F0DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Covfefe-master/Sources/Covfefe/EarleyParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "480"
+            endingLineNumber = "480"
+            landmarkName = "parse(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-SwiftTests/SIWE_SwiftTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "testResourcesParsing()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - 8c819f9c119fb8a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnIssuedParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "336"
+                  endingLineNumber = "336"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - 8454778ad620a43d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "336"
+                  endingLineNumber = "336"
+                  offsetFromSymbolStart = "3248">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - 8454778ad620bbde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "337"
+                  endingLineNumber = "337"
+                  offsetFromSymbolStart = "2776">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - 8454778ad620bbb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "340"
+                  endingLineNumber = "340"
+                  offsetFromSymbolStart = "2456">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - 8454778ad620bb7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "2456">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - 8454778ad620bb14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "343"
+                  endingLineNumber = "343"
+                  offsetFromSymbolStart = "2732">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - 8454778ad620bb14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "343"
+                  endingLineNumber = "343"
+                  offsetFromSymbolStart = "2528">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - b6ffb3da9e5a9a44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "3192">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - b6ffb3da9e5a9c55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "3192">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - b6ffb3da9e5a9d2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "320"
+                  endingLineNumber = "320"
+                  offsetFromSymbolStart = "3192">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - b6ffb3da9e5a6b9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "3192">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - b6ffb3da9e5a6b9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "3160">
+               </Location>
+               <Location
+                  uuid = "BAC4098A-8F5B-4E56-AFC7-91068233E806 - b6ffb3da9e5a69cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "3160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08E6AF0F-F3BE-4C35-9BCC-FBF5BF7F8C23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-SwiftTests/SIWE_SwiftTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "testURIParsing()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08E6AF0F-F3BE-4C35-9BCC-FBF5BF7F8C23 - dc460648e03930ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testURIParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "08E6AF0F-F3BE-4C35-9BCC-FBF5BF7F8C23 - dc460648e0393143"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testURIParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "08E6AF0F-F3BE-4C35-9BCC-FBF5BF7F8C23 - dc460648e0393962"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testURIParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "08E6AF0F-F3BE-4C35-9BCC-FBF5BF7F8C23 - dc460648e0393907"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testURIParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16194409-E596-4791-9A20-CD150E4D491D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-SwiftTests/SIWE_SwiftTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "testResourcesParsing()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "16194409-E596-4791-9A20-CD150E4D491D - 8c819f9c119fb9d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnIssuedParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "326"
+                  endingLineNumber = "326"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "16194409-E596-4791-9A20-CD150E4D491D - 8454778ad620a5aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "325"
+                  endingLineNumber = "325"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+               <Location
+                  uuid = "16194409-E596-4791-9A20-CD150E4D491D - 8454778ad620a54b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "326"
+                  endingLineNumber = "326"
+                  offsetFromSymbolStart = "1128">
+               </Location>
+               <Location
+                  uuid = "16194409-E596-4791-9A20-CD150E4D491D - 8454778ad620a526"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "329"
+                  endingLineNumber = "329"
+                  offsetFromSymbolStart = "1128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06B7A5E5-623A-4C7E-8573-4BECBF2C8981"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-SwiftTests/SIWE_SwiftTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "testMessageParsing()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "06B7A5E5-623A-4C7E-8573-4BECBF2C8981 - 9db6bff5c27301c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "416"
+                  endingLineNumber = "416"
+                  offsetFromSymbolStart = "5388">
+               </Location>
+               <Location
+                  uuid = "06B7A5E5-623A-4C7E-8573-4BECBF2C8981 - 9db6bff5c2730182"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "418"
+                  endingLineNumber = "418"
+                  offsetFromSymbolStart = "5388">
+               </Location>
+               <Location
+                  uuid = "06B7A5E5-623A-4C7E-8573-4BECBF2C8981 - 9db6bff5c2730127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "421"
+                  endingLineNumber = "421"
+                  offsetFromSymbolStart = "5388">
+               </Location>
+               <Location
+                  uuid = "06B7A5E5-623A-4C7E-8573-4BECBF2C8981 - 9db6bff5c27300e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "423"
+                  endingLineNumber = "423"
+                  offsetFromSymbolStart = "5388">
+               </Location>
+               <Location
+                  uuid = "06B7A5E5-623A-4C7E-8573-4BECBF2C8981 - 9db6bff5c27300c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "424"
+                  endingLineNumber = "424"
+                  offsetFromSymbolStart = "5388">
+               </Location>
+               <Location
+                  uuid = "06B7A5E5-623A-4C7E-8573-4BECBF2C8981 - 9db6bff5c27309c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "354"
+                  endingLineNumber = "354"
+                  offsetFromSymbolStart = "3028">
+               </Location>
+               <Location
+                  uuid = "06B7A5E5-623A-4C7E-8573-4BECBF2C8981 - 9db6bff5c2730fd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "369"
+                  endingLineNumber = "369"
+                  offsetFromSymbolStart = "3024">
+               </Location>
+               <Location
+                  uuid = "06B7A5E5-623A-4C7E-8573-4BECBF2C8981 - 9db6bff5c2730eba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "378"
+                  endingLineNumber = "378"
+                  offsetFromSymbolStart = "3024">
+               </Location>
+               <Location
+                  uuid = "06B7A5E5-623A-4C7E-8573-4BECBF2C8981 - 9db6bff5c273192d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "235"
+                  endingLineNumber = "235"
+                  offsetFromSymbolStart = "3024">
+               </Location>
+               <Location
+                  uuid = "06B7A5E5-623A-4C7E-8573-4BECBF2C8981 - 9db6bff5c273192d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "235"
+                  endingLineNumber = "235"
+                  offsetFromSymbolStart = "2280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44190BF9-B888-4595-80D6-3C1F76081859"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-SwiftTests/SIWE_SwiftTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "testMessageParsing()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "44190BF9-B888-4595-80D6-3C1F76081859 - 9db6bff5c2730165"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "419"
+                  endingLineNumber = "419"
+                  offsetFromSymbolStart = "5836">
+               </Location>
+               <Location
+                  uuid = "44190BF9-B888-4595-80D6-3C1F76081859 - 9db6bff5c2730127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "421"
+                  endingLineNumber = "421"
+                  offsetFromSymbolStart = "5836">
+               </Location>
+               <Location
+                  uuid = "44190BF9-B888-4595-80D6-3C1F76081859 - 9db6bff5c27300c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "424"
+                  endingLineNumber = "424"
+                  offsetFromSymbolStart = "5836">
+               </Location>
+               <Location
+                  uuid = "44190BF9-B888-4595-80D6-3C1F76081859 - 9db6bff5c273008a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "426"
+                  endingLineNumber = "426"
+                  offsetFromSymbolStart = "5836">
+               </Location>
+               <Location
+                  uuid = "44190BF9-B888-4595-80D6-3C1F76081859 - 9db6bff5c273006d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "427"
+                  endingLineNumber = "427"
+                  offsetFromSymbolStart = "5836">
+               </Location>
+               <Location
+                  uuid = "44190BF9-B888-4595-80D6-3C1F76081859 - 9db6bff5c27308ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "363"
+                  endingLineNumber = "363"
+                  offsetFromSymbolStart = "3288">
+               </Location>
+               <Location
+                  uuid = "44190BF9-B888-4595-80D6-3C1F76081859 - 9db6bff5c2730edb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "377"
+                  endingLineNumber = "377"
+                  offsetFromSymbolStart = "3304">
+               </Location>
+               <Location
+                  uuid = "44190BF9-B888-4595-80D6-3C1F76081859 - 9db6bff5c2730da2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "386"
+                  endingLineNumber = "386"
+                  offsetFromSymbolStart = "3304">
+               </Location>
+               <Location
+                  uuid = "44190BF9-B888-4595-80D6-3C1F76081859 - 9db6bff5c2731815"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
+                  offsetFromSymbolStart = "3304">
+               </Location>
+               <Location
+                  uuid = "44190BF9-B888-4595-80D6-3C1F76081859 - 9db6bff5c2731815"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
+                  offsetFromSymbolStart = "2576">
+               </Location>
+               <Location
+                  uuid = "44190BF9-B888-4595-80D6-3C1F76081859 - 9db6bff5c2731a42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testMessageParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "226"
+                  endingLineNumber = "226"
+                  offsetFromSymbolStart = "2576">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03CCD84B-F56C-44D4-B93D-FF2C31BDA275"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-SwiftTests/SIWE_SwiftTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "testURIParsing()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03CCD84B-F56C-44D4-B93D-FF2C31BDA275 - 8454778ad620a66c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "319"
+                  endingLineNumber = "319"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "03CCD84B-F56C-44D4-B93D-FF2C31BDA275 - 8454778ad620a66c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testnResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "319"
+                  endingLineNumber = "319"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "03CCD84B-F56C-44D4-B93D-FF2C31BDA275 - b6ffb3da9e5a977d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "271"
+                  endingLineNumber = "271"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+               <Location
+                  uuid = "03CCD84B-F56C-44D4-B93D-FF2C31BDA275 - b6ffb3da9e5a9992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "286"
+                  endingLineNumber = "286"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+               <Location
+                  uuid = "03CCD84B-F56C-44D4-B93D-FF2C31BDA275 - b6ffb3da9e5a9a65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "295"
+                  endingLineNumber = "295"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+               <Location
+                  uuid = "03CCD84B-F56C-44D4-B93D-FF2C31BDA275 - b6ffb3da9e5a68d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+               <Location
+                  uuid = "03CCD84B-F56C-44D4-B93D-FF2C31BDA275 - b6ffb3da9e5a68d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.SIWEParsingTests.testResourcesParsing() throws -&gt; ()"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-SwiftTests/SIWE_SwiftTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E026CB30-ABE4-45AE-B3B7-7BC6DE91A84D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/WalletImportView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "importWalletWithPrivateKey(password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43552FCA-7CA0-4DCD-8BD2-D7F560D4574A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-SwiftTests/EncodedMessageTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "testSampleMessage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21D1480D-CBF6-4C57-86B4-2791F38D1C84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "init(message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21D1480D-CBF6-4C57-86B4-2791F38D1C84 - 4bf1074b45951145"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_Swift.MessageParser.init(message: Swift.String) throws -&gt; SIWE_Swift.MessageParser"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "1380">
+               </Location>
+               <Location
+                  uuid = "21D1480D-CBF6-4C57-86B4-2791F38D1C84 - 54618c736457c557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.MessageParser.init(message: Swift.String) throws -&gt; SIWE_SwiftTests.MessageParser"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "1380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE2E33EF-F143-4BC6-9910-117A2BBED23E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "init(message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE2E33EF-F143-4BC6-9910-117A2BBED23E - 4bf1074b45951f13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_Swift.MessageParser.init(message: Swift.String) throws -&gt; SIWE_Swift.MessageParser"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "2896">
+               </Location>
+               <Location
+                  uuid = "FE2E33EF-F143-4BC6-9910-117A2BBED23E - 54618c736457cb01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.MessageParser.init(message: Swift.String) throws -&gt; SIWE_SwiftTests.MessageParser"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "2896">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F34AEBEF-45DD-4558-AE23-43EA3B948FA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "init(message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F34AEBEF-45DD-4558-AE23-43EA3B948FA4 - 4bf1074b45951d8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_Swift.MessageParser.init(message: Swift.String) throws -&gt; SIWE_Swift.MessageParser"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "3296">
+               </Location>
+               <Location
+                  uuid = "F34AEBEF-45DD-4558-AE23-43EA3B948FA4 - 4bf1074b45951d8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_Swift.MessageParser.init(message: Swift.String) throws -&gt; SIWE_Swift.MessageParser"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "3332">
+               </Location>
+               <Location
+                  uuid = "F34AEBEF-45DD-4558-AE23-43EA3B948FA4 - 54618c736457c99e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.MessageParser.init(message: Swift.String) throws -&gt; SIWE_SwiftTests.MessageParser"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "3296">
+               </Location>
+               <Location
+                  uuid = "F34AEBEF-45DD-4558-AE23-43EA3B948FA4 - 54618c736457c99e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.MessageParser.init(message: Swift.String) throws -&gt; SIWE_SwiftTests.MessageParser"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "3332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5E458F1-9921-4385-A36B-A13CBAB44ECD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "value(phrase:key:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5E458F1-9921-4385-A36B-A13CBAB44ECD - 5e38a68c5d148ca2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_Swift.MessageParser.value(phrase: Swift.String, key: Swift.String) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "696">
+               </Location>
+               <Location
+                  uuid = "C5E458F1-9921-4385-A36B-A13CBAB44ECD - 37d9e682922eefad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_SwiftTests.MessageParser.value(phrase: Swift.String, key: Swift.String) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "696">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46E468B5-96AF-4A18-89E4-6B0877C7C2B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "value(phrase:key:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46E468B5-96AF-4A18-89E4-6B0877C7C2B4 - 5e38a68c5d148c01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_Swift.MessageParser.value(phrase: Swift.String, key: Swift.String) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "968">
+               </Location>
+               <Location
+                  uuid = "46E468B5-96AF-4A18-89E4-6B0877C7C2B4 - 37d9e682922eef0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_SwiftTests.MessageParser.value(phrase: Swift.String, key: Swift.String) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D6EABAF-175A-4AF9-B771-CBEE9D3B0EAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "value(phrase:key:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D6EABAF-175A-4AF9-B771-CBEE9D3B0EAF - 5e38a68c5d148ddb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_Swift.MessageParser.value(phrase: Swift.String, key: Swift.String) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "1D6EABAF-175A-4AF9-B771-CBEE9D3B0EAF - 37d9e682922eeed4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_SwiftTests.MessageParser.value(phrase: Swift.String, key: Swift.String) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63E7E6D6-051C-4BB0-A460-02E7ABAB05D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "value(phrase:key:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63E7E6D6-051C-4BB0-A460-02E7ABAB05D4 - 5e38a68c5d148ca2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_Swift.MessageParser.value(phrase: Swift.String, key: Swift.String) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "696">
+               </Location>
+               <Location
+                  uuid = "63E7E6D6-051C-4BB0-A460-02E7ABAB05D4 - 37d9e682922eefad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_SwiftTests.MessageParser.value(phrase: Swift.String, key: Swift.String) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "696">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C7050A1-1F96-4D5E-8B9B-F1751CB29A68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "value(phrase:key:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9C7050A1-1F96-4D5E-8B9B-F1751CB29A68 - 5e38a68c5d148c64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_Swift.MessageParser.value(phrase: Swift.String, key: Swift.String) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "9C7050A1-1F96-4D5E-8B9B-F1751CB29A68 - 37d9e682922eef6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_SwiftTests.MessageParser.value(phrase: Swift.String, key: Swift.String) throws -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "896">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C1A3427-5278-4392-B895-7FF14E70F37A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "init(message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9C1A3427-5278-4392-B895-7FF14E70F37A - 4bf1074b45951335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_Swift.MessageParser.init(message: Swift.String) throws -&gt; SIWE_Swift.MessageParser"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "9C1A3427-5278-4392-B895-7FF14E70F37A - 54618c736457c727"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.MessageParser.init(message: Swift.String) throws -&gt; SIWE_SwiftTests.MessageParser"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45D91DB4-EFC7-4E45-B257-6FCEE8AE4589"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "init(message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "45D91DB4-EFC7-4E45-B257-6FCEE8AE4589 - 4bf1074b459512c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_Swift.MessageParser.init(message: Swift.String) throws -&gt; SIWE_Swift.MessageParser"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "45D91DB4-EFC7-4E45-B257-6FCEE8AE4589 - 54618c736457c6db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.MessageParser.init(message: Swift.String) throws -&gt; SIWE_SwiftTests.MessageParser"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "992">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01ECEFE7-0586-4B25-8871-AFD4FB2B90F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "init(message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "01ECEFE7-0586-4B25-8871-AFD4FB2B90F0 - 4bf1074b4595118f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_Swift.MessageParser.init(message: Swift.String) throws -&gt; SIWE_Swift.MessageParser"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "4048">
+               </Location>
+               <Location
+                  uuid = "01ECEFE7-0586-4B25-8871-AFD4FB2B90F0 - 54618c736457c59d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_SwiftTests.MessageParser.init(message: Swift.String) throws -&gt; SIWE_SwiftTests.MessageParser"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "4048">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "180D723D-AD65-4214-B7BD-3476B9264D55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/MessageParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "messagePattern"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "180D723D-AD65-4214-B7BD-3476B9264D55 - 38729de506a210fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_Swift.MessageParser.messagePattern.getter : Swift.String"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "5776">
+               </Location>
+               <Location
+                  uuid = "180D723D-AD65-4214-B7BD-3476B9264D55 - 7975e2de7eff6ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SIWE_SwiftTests.MessageParser.messagePattern.getter : Swift.String"
+                  moduleName = "SIWE-SwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/MessageParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "5776">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DDDB43E-C6B6-4094-8CC8-758E632133C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5AEDBAD-86B6-4D87-AAE8-9A87B606B34E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF66FF93-089E-4896-9E3B-514CA80295AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/WalletImportView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "importWalletWithMnemonics(password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57ADA144-BE9C-4308-A2C9-03BE02CA8FB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "774B25BD-B4AF-4C7F-A5A8-F58E45268CF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D45C8449-BAF5-4C51-8954-57242F6B68FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B2CCE3C-B268-428E-A8E5-1E3AC0F9D827"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15A0209E-493E-41DE-81B9-6B0A0071E4D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65750B20-AA14-44E0-85E7-B892BC66D0C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42A8ACB7-EC9A-491F-92DA-7B357F1A8BF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18D4DA23-09B0-4116-8401-B53C1287DEEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B56E8E61-634A-4205-91F3-EFD4AB5B01CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B227140E-9A5D-4571-BC54-4EE3DB9C005E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/SIWE.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "validate(signature:meessageData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB84F4F9-187A-4AC2-880D-E46751C7ADF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE_SwiftApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D6A098C-0CB5-4AC5-8B72-1F6B10287B1E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/SIWE.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "267"
+            endingLineNumber = "267"
+            landmarkName = "validate(signature:meessageData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D6A098C-0CB5-4AC5-8B72-1F6B10287B1E - b983b1fc9eae6bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_Swift.SiweMessage.validate(signature: Foundation.Data, meessageData: Foundation.Data) async throws -&gt; Swift.Bool"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/SIWE.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "2844">
+               </Location>
+               <Location
+                  uuid = "7D6A098C-0CB5-4AC5-8B72-1F6B10287B1E - b983b1fc9eae6bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SIWE_Swift.SiweMessage.validate(signature: Foundation.Data, meessageData: Foundation.Data) async throws -&gt; Swift.Bool"
+                  moduleName = "SIWE-Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielbell/Dev/SIWE/SIWE-Swift/SIWE-Swift/SIWE/SIWE.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "3092">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1BD640D-C659-404D-893E-5F4C78330825"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/WalletImportView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "importWallet()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E550E55-8DDB-43BA-8082-F61BDBBC58CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/WalletImportView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "importWallet()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B262199-CA94-4F44-8816-3B0B6D5712A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/WalletImportView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "importWallet()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39EB046C-6A29-4960-B7DA-AF3B10E3906A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/WalletImportView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "importWallet()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "817FE63C-D84F-4FDE-952A-4C6E384423EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/WalletImportView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "importWallet()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BE12162-CF77-49CF-8640-B1C1529B8EF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/WalletImportView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "importWallet()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78D2AF5A-EBB8-449B-BDB6-DDE1279FEDDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/SIWE.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "validate(signature:meessageData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7527A86-AF20-41E4-93AA-08DBAB7F5456"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SIWE-Swift/SIWE/SIWE.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "validate(signature:meessageData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
